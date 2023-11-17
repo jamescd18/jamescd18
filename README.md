@@ -7,7 +7,7 @@
 I love using technology to improve people's lives. <br/>
 
 <br/> 📫 Contact me:
-<a href="http://James.ChangDavidson.com" style="color:blue"><i>James.ChangDavidson.com</i></a>
+<a href="http://James.ChangDavidson.com" style="color:blue"><i>Website</i></a>
 •
 <a href="mailto:James@ChangDavidson.com" style="color:blue"><i>E-Mail</i></a>
 •
