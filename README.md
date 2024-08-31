@@ -1,6 +1,6 @@
 <hr style="height:2px" color="grey">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jamescd18&show_icons=true&theme=dark" width="420">
+<img align='right' alt="Cool stats coming soon!" width="420">
 <h3>James Chang-Davidson</h3>
 <p><em><u>Product Manager & Technology Leader</u></em></p>
 I love using technology and education to make the world a better place. <br/>
