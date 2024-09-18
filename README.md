@@ -6,7 +6,7 @@
 I love using technology and education to make the world a better place. <br/>
 
 <br/> 📫 Contact me:
-<a href="http://ChangDavidson.com" style="color:blue"><i>Website</i></a>
+<a href="http://jcd.dev" style="color:blue"><i>Website</i></a>
 •
 <a href="mailto:James@ChangDavidson.com" style="color:blue"><i>E-Mail</i></a>
 •
